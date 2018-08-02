@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/elodina/siesta"
+	"github.com/d3luxee/siesta"
 )
 
 type ProducerRecord struct {

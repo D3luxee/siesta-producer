@@ -17,10 +17,11 @@ package producer
 
 import (
 	"fmt"
-	"github.com/elodina/siesta"
 	"math/rand"
 	"testing"
 	"time"
+
+	"github.com/d3luxee/siesta"
 )
 
 func TestProducerSend1(t *testing.T) {

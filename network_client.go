@@ -1,8 +1,9 @@
 package producer
 
 import (
-	"github.com/elodina/siesta"
 	"time"
+
+	"github.com/d3luxee/siesta"
 )
 
 type NetworkClientConfig struct {

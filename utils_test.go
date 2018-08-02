@@ -17,13 +17,14 @@ package producer
 
 import (
 	crand "crypto/rand"
-	"github.com/elodina/siesta"
 	"math/rand"
 	"net"
 	"reflect"
 	"runtime"
 	"testing"
 	"time"
+
+	"github.com/d3luxee/siesta"
 )
 
 const tcpListenerAddress = "localhost:0"

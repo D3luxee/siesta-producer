@@ -16,9 +16,10 @@ limitations under the License. */
 package producer
 
 import (
-	"github.com/elodina/siesta"
 	"testing"
 	"time"
+
+	"github.com/d3luxee/siesta"
 )
 
 func TestSelector(t *testing.T) {

@@ -16,10 +16,11 @@ limitations under the License. */
 package producer
 
 import (
-	"github.com/elodina/siesta"
 	"io"
 	"net"
 	"time"
+
+	"github.com/d3luxee/siesta"
 )
 
 type ConnectionRequest struct {
